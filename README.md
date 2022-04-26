@@ -1,2 +1,1 @@
-# pal-ocean-WORM
-A palette for visualizing bathymetry
+[README](https://github.com/dmparrishphd/pal-ocean-CORW#readme).
